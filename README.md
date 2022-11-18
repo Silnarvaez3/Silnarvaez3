@@ -1,9 +1,9 @@
 # 👋 Hi everyone!!!
 
 I’m Silvio Narváez from Chile:
-- 👀 I'm interested in physics, math, statistics, and problem-solving computer programming.  
-- 🌱 I’m currently learning Python for Data Science and Machine Learning Bootcamp on Udemy platform.
-- 💞️ I’m looking to collaborate on data analytics projects.
+- ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming.  
+- 💻 I’m currently learning Python for Data Science and Machine Learning Bootcamp on Udemy platform.
+- 👨‍💼 I’m looking to collaborate on data analytics projects.
 
 
 <!---
