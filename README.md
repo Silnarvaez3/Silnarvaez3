@@ -8,7 +8,7 @@
         <h1 align="center">Silvio Narvaez</h1>
         <p align="center"><strong>DataScience</strong></p>
         <p align="center">
-            <img src=C:\Users\silna\OneDrive\Escritorio\Portafólio\perfil.jpg alt="avatar" width="150px">
+            <img src=D:\silna\DataScience\GitHub\Presentacion\Silnarvaez3\perfil.jpg alt="avatar" width="150px">
             <hr>
         </p>
         </header>
