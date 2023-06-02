@@ -7,10 +7,10 @@
     <header>
         <h1 align="center">Silvio Narvaez</h1>
         <p align="center"><strong>DataScience</strong></p>
-        <p align="center">
+        <!-- <p align="center">
             <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px" hight="150px">
             <hr>
-        </p>
+        </p> -->
         </header>
         <!-- <section> -->
         <p>
@@ -39,16 +39,16 @@
             <h2>Skills</h2>
             <table border="1">
             <tr>
-                <th>Tech</th>
-                <td>python</td>
-                <td>sql</td>
-                <td>poweby</td>
+                <th>Lenguajes</th>
+                <td>Python</td>
+                <td>SQL</td>
+                <td>HTML</td>
             </tr>
             <tr>
-                <th>SoftSkill</th>
-                <td>high ability</td>
-                <td>client happy</td>
-                <td>low heat</td>
+                <th>Tools</th>
+                <td>MySQL Benchmark</td>
+                <td>Visual Studio Code</td>
+                <td>GitHub</td>
             </tr>
             </table>
         </p>
