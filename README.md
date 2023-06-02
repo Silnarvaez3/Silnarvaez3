@@ -8,7 +8,7 @@
         <h1 align="center">Silvio Narvaez</h1>
         <p align="center"><strong>DataScience</strong></p>
         <p align="center">
-            <img src=https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png alt="avatar" width="150px">
+            <img src=C:\Users\silna\OneDrive\Escritorio\Portafólio\perfil.jpg alt="avatar" width="150px">
             <hr>
         </p>
         </header>
