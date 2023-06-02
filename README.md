@@ -2,7 +2,8 @@
     <body>
     <footer>
         <h2>Contact</h2>
-        <a href=www.linkedin.com/in/snarvaez3>Linkedin</a>
+        <a href="https://www.linkedin.com/in/snarvaez3" target="_blank" title="Snarvaez3">LinkedIn </a>
+        <a href="https://www.sololearn.com" target="_blank" title="Sololearn">Click here </a>
     </footer>
     <header>
         <h1 align="center">Silvio Narvaez</h1>
