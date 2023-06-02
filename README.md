@@ -2,7 +2,7 @@
     <body>
     <footer>
         <h2>Contact</h2>
-        <a href="www.linkedin.com/in/snarvaez3">Linkedin</a>
+        <a href=www.linkedin.com/in/snarvaez3>Linkedin</a>
     </footer>
     <header>
         <h1 align="center">Silvio Narvaez</h1>
