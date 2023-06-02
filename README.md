@@ -5,7 +5,6 @@ I’m Silvio Narváez from Chile:
 - 💻 I’m currently learning Python for Data Science and Machine Learning Bootcamp on Udemy platform.
 - 👨‍💼 I’m looking to collaborate on data analytics projects.
 
-vamos a hacer cambios. este es otro
 <!---
 Silnarvaez3/Silnarvaez3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
