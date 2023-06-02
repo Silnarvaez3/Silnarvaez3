@@ -8,7 +8,7 @@
         <h1 align="center">Silvio Narvaez</h1>
         <p align="center"><strong>DataScience</strong></p>
         <p align="center">
-            <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px">
+            <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px" hight="150px">
             <hr>
         </p>
         </header>
