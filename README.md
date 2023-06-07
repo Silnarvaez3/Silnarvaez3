@@ -2,11 +2,13 @@
     <body>
         <header>
             <h1 align="center">Silvio Narvaez</h1> 
-            <h3  align = "center"><strong>DataScience</strong><h3>
+            <p align="center">DataScience</p>
             <!-- <p align="center">
                 <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px" hight="150px">
                 <hr>
             </p> -->
+        </header>
+        <main>
             <section>
                 <h2>Resumen</h2>
                 <br>
@@ -18,8 +20,6 @@
                     <li> 👨‍💼 I’m looking to collaborate on data analytics projects.</li>
                 </ul>
             </section>
-        </header>
-        <main>
             <section>
                 <p>
                     <h2>Experience</h2>
