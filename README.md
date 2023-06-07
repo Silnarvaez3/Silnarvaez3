@@ -47,6 +47,15 @@
                 </table>
             </section>
         </main>
+        <section>
+            <h2>Contact Form</h2>
+            <form>
+                <label for="name"> Nombre: </label>
+                <input type="text" id="name" placeholder="jonh Smitch" ><br>
+                <label for="email"> Email: </label>
+                <input type="email" id="email" placeholder="user@domain.com">                
+            </form>
+        </section>
         <footer>
             <h2>Contact</h2>
             <a href="https://www.linkedin.com/in/snarvaez3" align="center" title="Snarvaez3">LinkedIn </a>   
