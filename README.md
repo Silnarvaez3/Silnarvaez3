@@ -1,8 +1,8 @@
 <html>
     <body>
         <header>
-            <h1 align="center">Silvio Narvaez</h1>
-            <strong align = "center">DataScience</strong>
+            <h1 align="center">Silvio Narvaez</h1> 
+            <h3  align = "center"><strong>DataScience</strong><h3>
             <!-- <p align="center">
                 <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px" hight="150px">
                 <hr>
