@@ -31,7 +31,7 @@
                     <ul>
                         <li><b> Acceso al agua potable en el mundo </b> | 2022
                         <li><b> Búsqueda y Analisis de Materiales Antiferromagnéticos </b> | 2021
-                        <li><b> Estudio de Tensión Hexagonal en Perovskitas de Óxido</b> | 2020
+                        <li><b> Estudio de Tensión Hexagonal en Perovskitas de Óxido</b> | 2019
 <!-- <section>
     <h2>Habilidades</h2>
     <table border="1">
