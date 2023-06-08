@@ -55,7 +55,7 @@
                 <label for="email"> Email: </label>
                 <input type="email" id="email" placeholder="user@domain.com"><br>
                 <label for="msg">Mensaje</label><br>
-                <textarea></textarea><br>
+                <textarea id="msg"></textarea><br>
                 <input type="button" value="Send">
             </form>
         </section>
