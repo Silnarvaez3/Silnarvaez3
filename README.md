@@ -53,7 +53,10 @@
                 <label for="name"> Nombre: </label>
                 <input type="text" id="name" placeholder="jonh Smitch" ><br>
                 <label for="email"> Email: </label>
-                <input type="email" id="email" placeholder="user@domain.com">                
+                <input type="email" id="email" placeholder="user@domain.com"><br>
+                <label for="msg">Mensaje</label><br>
+                <textarea></textarea><br>
+                <input type="button" value="Send">
             </form>
         </section>
         <footer>
