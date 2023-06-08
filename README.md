@@ -2,7 +2,7 @@
     <body>
         <header>
             <h1 align="center">Silvio Narvaez</h1> 
-            <p align="center">DataScience</p>
+            <p align="center">DataScientist</p>
             <!-- <p align="center">
                 <img src=https://github.com/Silnarvaez3/Silnarvaez3/blob/Rama-html/perfil.jpg alt="avatar" width="150px" hight="150px">
                 <hr>
