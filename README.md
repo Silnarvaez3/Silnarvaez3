@@ -12,56 +12,48 @@
             <section>
                 <h2>Resumen</h2>
                 <br>
-                <h3>👋 Hi everyone!!!</h3>
-                I’m Silvio Narváez from Chile:
+                <h3>👋 Hola a todos!!!</h3>
+                Los invito a que puedan conocer algo de mi trayectoría profecional:
                 <ul>
-                    <li> ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming. </li>  
-                    <li> 💻 I’m currently learning Python for Data Science and Machine Learning Bootcamp on Udemy platform.</li>
-                    <li> 👨‍💼 I’m looking to collaborate on data analytics projects.</li>
+                    <li> ⚛️ Mi formación base es la Física, matemática y estadística; fué ahí (en mi formación universitaria), donde conocí la programación.
+                    <li> 💻 Actualmente dedico la mayor parte de mi tiempo al análisis de datos y a comprender módelos de Machine Learning.
+                    <li> 👨‍💼 Estoy buscando colaborar en proyectos de Análasis o Ciencia de datos para aplicar mis conocimientos y ganar experiencia. 
+<!-- <li> ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming. </li> 
+<li> ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming. </li>  
+<li> Hoy dedico la mayor parte de mi tiempo al análisis de datos y a comprender módelos de Machine Learning.
+<li> 💻 I’m currently learning Python for Data Science and Machine Learning Bootcamp on Udemy platform.</li>
+<li> 👨‍💼 I’m looking to collaborate on data analytics projects.</li> -->
                 </ul>
             </section>
             <section>
                 <p>
-                    <h2>Experience</h2>
+                    <h2>Experiencia relacionada</h2>
                     <ul>
-                        <li><b> Analist Junior-PinoCompany</b> | 2020-present</li>
-                        <li><b>Director Comercial-WebClass</b> | 2019-2020</li>
-                    </ul>
-                </p>
-            </section>
-            <section>
-                <h2>Skills</h2>
-                <table border="1">
-                    <tr>
-                        <th>Lenguajes</th>
-                        <td>Python</td>
-                        <td>SQL</td>
-                        <td>HTML</td>
-                    </tr>
-                    <tr>
-                        <th>Tools</th>
-                        <td>MySQL Benchmark</td>
-                        <td>Visual Studio Code</td>
-                        <td>GitHub</td>
-                    </tr>
-                </table>
-            </section>
+                        <li><b> Acceso al agua potable en el mundo </b> | 2022
+                        <li><b> Búsqueda y Analisis de Materiales Antiferromagnéticos </b> | 2021
+                        <li><b> Estudio de Tensión Hexagonal en Perovskitas de Óxido</b> | 2020
+<!-- <section>
+    <h2>Habilidades</h2>
+    <table border="1">
+        <tr>
+            <th>Lenguajes</th>
+            <td>Python</td>
+            <td>SQL</td>
+            <td>HTML</td>
+        </tr>
+        <tr>
+            <th>Tools</th>
+            <td>MySQL</td>
+            <td>Visual Studio Code</td>
+            <td>GitHub</td>
+        </tr>
+    </table>
+</section> -->
         </main>
-        <section>
-            <h2>Contact Form</h2>
-            <form>
-                <label for="name"> Nombre: </label>
-                <input type="text" id="name" placeholder="jonh Smitch" ><br>
-                <label for="email"> Email: </label>
-                <input type="email" id="email" placeholder="user@domain.com"><br>
-                <label for="msg">Mensaje</label><br>
-                <textarea id="msg"></textarea><br>
-                <input type="button" value="Send">
-            </form>
-        </section>
         <footer>
-            <h2>Contact</h2>
-            <a href="https://www.linkedin.com/in/snarvaez3" align="center" title="Snarvaez3">LinkedIn </a>   
+            <h2>Contacto</h2>
+            <a href="https://www.linkedin.com/in/snarvaez3" align="center" title="Snarvaez3">LinkedIn </a>
+            <p align="center"> Copyright &copy; Silvio Narváez </p> 
         </footer>
     </body>
 </html>
