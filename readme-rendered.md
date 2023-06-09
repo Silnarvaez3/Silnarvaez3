@@ -1,5 +1,8 @@
 <html>
     <body>
+        <div align="center">
+        <img src="https://github.com/Silnarvaez3/Silnarvaez3/blob/f09ef6da602e4d080fa6b7d3ce04f58396fe32c2/gif/animacion.gif" align="center"/>
+        </div>  
         <header>
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
