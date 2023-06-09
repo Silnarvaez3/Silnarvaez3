@@ -1,7 +1,7 @@
 <html>
     <body>
         <div align="center">
-        <img src="https://github.com/Silnarvaez3/Silnarvaez3/blob/f09ef6da602e4d080fa6b7d3ce04f58396fe32c2/gif/animacion.gif" align="center"/>
+        <img src="https://github.com/Silnarvaez3/Silnarvaez3/blob/31cd99331aca5a6966b254791c7b845f53f16718/gif/animacion.gif" align="center"/>
         </div>  
         <header>
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
