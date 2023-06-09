@@ -1,3 +1,6 @@
+[Ver archivo README renderizado en HTML](readme-rendered.md)
+
+<!-- 
 <html>
     <body>
         <header>
@@ -60,8 +63,7 @@
     </body>
 </html>
 
-
-
+ -->
 
 <!---
 Silnarvaez3/Silnarvaez3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
