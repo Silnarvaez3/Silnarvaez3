@@ -50,8 +50,8 @@
     </table>
 </section> -->
         </main>
-        <footer style="color:blue">
-            <h2>Contacto</h2>
+        <footer>
+            <h2 style="color:blue">Contacto</h2>
             <a href="https://www.linkedin.com/in/snarvaez3" align="center" title="Snarvaez3">LinkedIn </a>
             <p align="center"> Copyright &copy; Silvio Narváez </p> 
         </footer>
