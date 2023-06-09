@@ -12,7 +12,7 @@
             <section>
                 <h2>Resumen</h2>
                 <br>
-                <h3>👋 Hola a todos!!!</h3>
+                <h3>👋 Hola a tod@s!!!</h3>
                 Los invito a que puedan conocer algo de mi trayectoría profesional:
                 <ul>
                     <li> ⚛️ Mi formación base es la Física, matemática y estadística; fué ahí (en mi formación universitaria), donde conocí la programación.
