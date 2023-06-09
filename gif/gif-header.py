@@ -18,7 +18,4 @@ frames.append(imagen2)
 frames.append(imagen3)
 
 
-
-
-
-frames[0].save('animacion.gif', format='GIF', append_images=frames[1:], save_all=True, duration=500, loop=0)
+frames[0].save('animacion.gif', format='GIF', append_images=frames[1:], save_all=True, duration=600, loop=0)
