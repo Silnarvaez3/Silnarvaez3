@@ -23,7 +23,7 @@
                 <ul>
                     <li> ⚛️ Mi formación base es la Física, matemática y estadística; fué ahí (en mi formación universitaria), donde conocí la programación.
                     <li> 💻 Actualmente dedico la mayor parte de mi tiempo al análisis de datos y a comprender modelos de Machine Learning.
-                    <li> 👨‍💼 Estoy buscando colaborar en proyectos de Análasis o Ciencia de datos para aplicar mis conocimientos y ganar experiencia. 
+                    <li> 👨‍💼 Estoy buscando colaborar en proyectos de Análisis o Ciencia de datos para aplicar mis conocimientos y ganar experiencia. 
 <!-- <li> ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming. </li> 
 <li> ⚛️ I'm interested in physics, math, statistics, and problem-solving computer programming. </li>  
 <li> Hoy dedico la mayor parte de mi tiempo al análisis de datos y a comprender módelos de Machine Learning.
