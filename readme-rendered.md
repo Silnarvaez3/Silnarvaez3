@@ -56,6 +56,7 @@
     </table>
 </section> -->
         </main>
+        <h2>Skills</h2>
         <div align="center">  
             <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/python.jpg" alt="HTML5" height="50" />  
             <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/sql%20server.jpg" alt="CSS3" height="50" />  
