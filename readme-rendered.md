@@ -1,7 +1,8 @@
 <html>
     <body>
         <div align="center">
-        <img src="https://github.com/Silnarvaez3/Silnarvaez3/blob/31cd99331aca5a6966b254791c7b845f53f16718/gif/animacion.gif" align="center"/>
+        <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+        <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
         </div>  
         <header>
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
