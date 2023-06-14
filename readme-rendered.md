@@ -57,11 +57,14 @@
 </section> -->
         </main>
         <div align="center">  
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/python.jpg" alt="HTML5" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/sql%20server.jpg" alt="CSS3" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/mysql.png" alt="JavaScript" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/powebi.png" alt="TypeScript" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/docker.png" alt="Electron" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/jupyter.png" alt="Electron" height="50" />  
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/django.png" alt="Electron" height="50" /> 
+            <img style="margin: 10px" src="https://github.com/Silnarvaez3/Silnarvaez3/blob/e301b66ff9a02d727f363a82fab772a895e160a1/img/vscode.jpg" alt="Electron" height="50" /> 
         </div>
         <footer>
             <h2 style="color:blue">Contacto</h2>
