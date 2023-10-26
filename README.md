@@ -35,6 +35,7 @@
                 <p>
                     <h2>Experiencia relacionada</h2>
                     <ul>
+                        <li><b> Predicción de riesgo crediticio LendingClub </b> | 2023
                         <li><b> Acceso al agua potable en el mundo </b> | 2022
                         <li><b> Búsqueda y Analisis de Materiales Antiferromagnéticos </b> | 2021
                         <li><b> Estudio de Tensión Hexagonal en Perovskitas de Óxido</b> | 2019
